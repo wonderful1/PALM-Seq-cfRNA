@@ -16,7 +16,7 @@ Requirements:
 
 Install :  
 	Simply download it and unzip it  
-	Go to the Bin,and use the perl script  
+	Go to the Bin,and runing the perl scripts  
 
 
 ## Description
