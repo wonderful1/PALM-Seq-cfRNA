@@ -7,12 +7,12 @@ This pipeline is designed for PALM-seq which is a new method to get all sorts of
 
 ## Usage:
 Requirements: 
-	1. Bgzip/gzip
-	2. cutadapt
-	3. bowtie
-	4. samtools
-	5. rsem
-	6. STAR
+	1. Bgzip/gzip  
+	2. cutadapt  
+	3. bowtie  
+	4. samtools  
+	5. rsem  
+	6. STAR  
 
 Install :  
 	Simply download it and unzip it  
