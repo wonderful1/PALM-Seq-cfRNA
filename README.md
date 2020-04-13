@@ -6,7 +6,7 @@ Author: Taifu Wang(mail:wangtaifu@genomics.cn)
 This pipeline is designed for PALM-seq which is a new method to get all sorts of RNA in one library  
 
 ## Usage:
-Requirements: 
+Requirements:  
 	1. Bgzip/gzip  
 	2. cutadapt  
 	3. bowtie  
