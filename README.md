@@ -14,13 +14,7 @@ Requirements:
 	5. rsem  
 	6. STAR  
 
-Install :  
-	Simply download it and unzip  
-	runing the perl scripts in bin/ 
-
-
 ## Description
-
 ### Perl script: 
 1. Final_cfRNAPipe.pl :Generate all shell scripts for all given samples  
 2. Remove_har_miRNA.pl :Remove harpin miRNA from miRNA mapping result  
