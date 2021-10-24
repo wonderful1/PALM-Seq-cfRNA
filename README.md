@@ -20,3 +20,5 @@ This pipeline is designed for PALM-seq which is a new method to get all sorts of
 2. Remove_har_miRNA.pl :Remove harpin miRNA from miRNA mapping result  
 2. miRNA_Count_RPM.pl :Count the miRNA reads and scale to RPM  
 4. tpiRNA_Count_RPM.pl :Count the tRNA and piRNA reads and scale to RPM  
+
+### note: Only demos are provided here, If you want to run quickly, you can find the corresponding CWL resources on the website http://www.sixoclock.net/.
